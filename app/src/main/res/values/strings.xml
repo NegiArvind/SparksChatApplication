@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+
+    <string-array name="messages">
+        <item>May I come in, sir?</item>
+        <item>Come in please….. have a seat.</item>
+        <item>Thanks.</item>
+        <item> Please tell us something about you.</item>
+        <item> I passed 12th from CBSE with 75% marks. Now I am pursuing B.A. from Delhi University. I am also doing a part time job as a computer operator. My hobbies are watching cricket and listening to music.</item>
+        <item>Where are you working?</item>
+        <item>I am working at the office of a Chartered Accountant in CP.</item>
+        <item>How much salary are you taking?</item>
+        <item> Rs.30000/- per month.</item>
+        <item>Why do you want to leave that job?</item>
+        <item>Firstly it is a part time job and I want to do a full time job. Secondly I am not interested in accounting.</item>
+        <item>You are doing graduation. How will you be able to do a full time job?</item>
+        <item>I am doing graduation through correspondence. Therefore I would be able to do a full time job.</item>
+        <item>Why do you want to join a call centre?</item>
+        <item>I like to talk to others. Moreover, career prospectus are bright in a big company. Talent is valued here.</item>
+        <item>Cricket is one of your hobbies. Now tell me, who is better batsman – Sehwag or Brian Lara?</item>
+        <item>In my opinion Lara is more experienced and a better batsman.</item>
+        <item>Which type of music do you like to listen to?</item>
+        <item>I enjoy both classical and pop music.</item>
+        <item>Why do Punjabi pop songs are more popular in India than songs of any other Indian language?</item>
+        <item>They are melodious and foot-tapping.</item>
+        <item>Who is your favourite family member?</item>
+        <item>My father is my favourite.</item>
+        <item>Why is he your favourite?</item>
+        <item>He is hard-working and wise. Now and then he sits with us and gives friendly guidance.</item>
+        <item> If you are made the chief minister of Delhi what would be your first two steps?</item>
+        <item>To remove illegal encroachments from the city and ensure parking places in each colony.</item>
+        <item>And if you become God for one day tell us one thing you would like to do.</item>
+        <item>To create a new world without violence.</item>
+        <item>How many buttons does your shirt have?</item>
+        <item>Sorry sir, I never counted them.</item>
+        <item>When did Akbar the great land on moon?</item>
+        <item>Actually he never landed on moon. He was Emperor of India, a great mogul.</item>
+        <item> What is your weak point?</item>
+        <item> Eating spicy food.</item>
+        <item> What is the main strength of your personality?</item>
+        <item>The ability to talk to any person without hesitation.</item>
+        <item>Where do you see yourself after five years?</item>
+        <item>Working in your company at a senior position.</item>
+        <item>Speak a few sentences on ‘a bunch of ripe bananas’.</item>
+        <item>It reflects a healthy and zestful life. </item>
+        <item>Something more</item>
+        <item> It also fills us with a feeling of togetherness. </item>
+        <item>Something more</item>
+        <item> A spirit of cooperation among employees makes them more useful and valuable.</item>
+        <item>If we work in a team we become very cooperative. Therefore join hands and move forward with confidence.</item>
+        <item>I am impressed with your answers.</item>
+        <item>Thanks sir</item>
+        <item>Would you like to have your appointment letter just now and join the company from the first of coming month.</item>
+        <item>Definitely. Thanking you a lot for giving me an opportunity to work with the company.</item>
+
+    </string-array>
+</resources>
